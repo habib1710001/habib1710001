@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Habib Ur Rahman
 - 👀 I’m an IoT & Embedded System Engineer
-- 🌱 I’m currently working as an Embedded System Lead at GizanTech
-- 💞️ I’m looking to collaborate on any interesting project that incorporates Embedded systems.
+- 🌱 I’m currently working as a Senior Embedded System at GizanTech
+- 💞️ I’m looking to collaborate on any interesting project incorporating embedded systems.
 - 📫 email: hr.ece17.ruet@gmail.com
 
 <!---
