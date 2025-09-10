@@ -1,6 +1,6 @@
 # 📋 **About Me**
 
-Hello! I'm **Habib Ur Rahman**, a PhD graduate student in Computer Engineering at Colorado State University, and an Embedded Systems Engineer with extensive experience in **firmware development, digital systems design, and PCB design**. 
+Hello! I'm **Habib Ur Rahman**, an Embedded Systems Engineer with extensive experience in **firmware development, digital systems design, and PCB design**. 
 
 I have a strong background in:
 - **Microcontrollers**: MSP430, ESP32, STM32, nRF52840, and more.
@@ -28,7 +28,6 @@ In my professional career, I’ve worked with **MetroScientific**, **Gizantech**
 
 If you're interested in discussing potential collaborations, or would like to know more about my work, feel free to reach out!
 
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/habib-ur-rahman-41699a17a/)
 - **Freelancer**: [Freelacner Profile](https://www.my.freelancer.com/u/Habibece17ruet)
 - **Email**: hr.ece17.ruet@gmail.com
 
